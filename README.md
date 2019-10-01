@@ -1,4 +1,5 @@
 # hello-world1
 Just another repository
 
-Hi hello my name is Qi.
+This is edited by vim.
+Hi, my name is Qi, and this is the test file.
